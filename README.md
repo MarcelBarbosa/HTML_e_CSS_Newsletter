@@ -6,3 +6,4 @@ Projeto utilizando Tailwind para personalização da página
 * Tailwind
  
 ## Visualização:
+[https://html-e-css-newsletter.vercel.app]
